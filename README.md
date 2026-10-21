@@ -24,37 +24,40 @@ Through [AK Arc](https://akarcng.com), I help businesses build, improve, and mai
 
 ## Selected Projects
 
-Each project starts with a problem worth solving. Some are private or in development, and their descriptions reflect their intended functionality and current stage.
-
 ### Prospector | Job Intelligence
+Finding vacancies is easy. Identifying worthwhile opportunities takes better judgement.
 
-**The problem:** Finding job vacancies is not the same as knowing which opportunities deserve attention.
+An application focused on job quality and candidate fit, helping users prioritise opportunities rather than simply collect listings.
 
-**The solution:** A job discovery and intelligence application designed to assess role quality and candidate fit, helping users prioritise opportunities rather than simply accumulate listings.
+**[Explore Prospector](https://akarc-prospector.vercel.app)**
 
 ### CGF Hub | Group Operations
+Important records should not get lost in conversations and scattered documents.
 
-**The problem:** Important group records and administrative activities can become difficult to manage when information is scattered across conversations and documents.
+A private platform for managing group investments, loans, events, announcements, and documents, while keeping WhatsApp as the primary conversation channel.
 
-**The solution:** A private platform for managing investments, loans, events, announcements, and records, while allowing WhatsApp to remain the group's primary conversation channel.
+**[Visit CGF Hub](https://cgf.akarcng.com)**
 
 ### Imperial Autoclinic | Automotive Operations
+Workshop operations require information to move reliably from customer intake to inspection, quotation, and job management.
 
-**The problem:** Managing customers, vehicles, inspections, quotations, and workshop jobs requires information to flow reliably across different stages of a service.
+A digital platform designed to connect these activities and support more structured automotive service operations.
 
-**The solution:** A digital platform designed to connect these operational activities and give the workshop a more structured way to manage its work.
+**[Explore Imperial Autoclinic](https://imperial-autoclinic.vercel.app)**
 
 ### AK CHECK | Technology Auditing
+Businesses need a clearer understanding of their digital presence and where improvements are needed.
 
-**The problem:** Businesses can struggle to understand weaknesses in their digital presence and identify where improvements are needed.
+A technology audit solution developed through AK Arc to help identify opportunities for improvement.
 
-**The solution:** A technology audit application developed through AK Arc to help businesses assess their digital presence and identify areas for improvement.
+**[Visit AK Arc](https://akarcng.com)**
 
 ### BottleProof | Product Verification
+Product verification requires more than matching a record to a product.
 
-**The problem:** Matching a product record is not the same as proving that a product is genuine.
+An emerging beverage verification and supply-chain intelligence concept exploring traceability and evidence-led verification.
 
-**The solution:** An emerging beverage verification and supply-chain intelligence concept exploring traceability, verification workflows, and better evidence for consumers and businesses.
+*In development.*
 
 ## How I Approach Problems
 
